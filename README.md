@@ -1,4 +1,4 @@
-<h1>Makeova</h1>
+<h1>IKB</h1>
 
 Makeova is a modern responsive HTML5 landing page template suitable for use by home renovation agencies or contractors. With this template, you can easily create a landing page website. Some of the design components shipped with this template include:
 
